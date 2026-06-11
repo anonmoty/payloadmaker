@@ -11,9 +11,17 @@
 
      pip intsall requests 
 
-     git clone 
+     git clone https://github.com/anonmoty/payloadmaker.git
 
+     cd payloadmaker
 
+     ls
+
+     chmod 777 PAYLAADMAKEER
+
+     ./PAYLAADMAKEER
+
+Then type start
 
 
 
